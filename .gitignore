@@ -1,0 +1,5 @@
+env/ 
+train/ 
+valid/ 
+*.h5 
+__pycache__/ 
